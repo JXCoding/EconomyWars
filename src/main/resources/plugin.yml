@@ -1,0 +1,6 @@
+name: Economywars
+version: '${project.version}'
+main: de.jason.economywars.Economywars
+api-version: 1.18
+authors: [ Jxson ]
+description: A new gamemode called economywars
